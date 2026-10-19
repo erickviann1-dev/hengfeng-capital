@@ -4,16 +4,16 @@ Homepage hero film sequence
 Source: https://www.pexels.com/video/stunning-skyline-view-of-downtown-manhattan-36772021/
 Creator: Zak Mir
 
-2. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
-Source: https://www.pexels.com/video/detailed-analysis-of-stock-trading-on-dual-monitors-36393983/
-Creator: Jakub Zerdzicki
-
-3. Hong Kong skyscrapers at twilight (27 seconds, 29.97 fps, 16:9)
-Source: https://www.pexels.com/video/drone-footage-of-tall-buildings-at-hong-kong-7009175/
+2. Hong Kong illuminated skyline (42 seconds, 29.97 fps, 16:9)
+Source: https://www.pexels.com/video/city-buildings-during-night-time-9609351/
 Creator: Alan W
 
-4. Business meeting with cityscape views (9 seconds, 59.94 fps, 16:9)
-Source: https://www.pexels.com/video/business-meeting-with-cityscape-views-28859677/
-Creator: Max Medyk
+3. Professionals discussing data on a computer screen (14 seconds, 25 fps, 16:9)
+Source: https://www.pexels.com/video/people-having-a-discussion-6558516/
+Creator: Mikael Blomkvist
+
+4. Investment professional working with stock-market data (9 seconds, 25 fps, 16:9)
+Source: https://www.pexels.com/video/man-working-at-the-office-7692794/
+Creator: Yan Krukau
 
 License: Pexels License (free to use), accessed 2026-10-20
