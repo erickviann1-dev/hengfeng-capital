@@ -8,12 +8,12 @@ Creator: Zak Mir
 Source: https://www.pexels.com/video/city-buildings-during-night-time-9609351/
 Creator: Alan W
 
-3. Professionals discussing data on a computer screen (14 seconds, 25 fps, 16:9)
-Source: https://www.pexels.com/video/people-having-a-discussion-6558516/
-Creator: Mikael Blomkvist
+3. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
+Source: https://www.pexels.com/video/detailed-analysis-of-stock-trading-on-dual-monitors-36393983/
+Creator: Jakub Zerdzicki
 
-4. Investment professional working with stock-market data (9 seconds, 25 fps, 16:9)
-Source: https://www.pexels.com/video/man-working-at-the-office-7692794/
-Creator: Yan Krukau
+4. Multi-screen market-data workstation (21 seconds, 50 fps, 16:9)
+Source: https://www.pexels.com/video/stock-market-analysis-on-trading-monitors-38642316/
+Creator: Rafael Minguet Delgado
 
 License: Pexels License (free to use), accessed 2026-10-20
