@@ -8,12 +8,18 @@ Creator: Zak Mir
 Source: https://www.pexels.com/video/city-buildings-during-night-time-9609351/
 Creator: Alan W
 
-3. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
+3. Hong Kong rail corridor and harbour skyline (3.6 seconds, 30 fps web master, 16:9)
+Source: project owner supplied ProRes master Z904C047_260708DO.mov
+
+4. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
 Source: https://www.pexels.com/video/detailed-analysis-of-stock-trading-on-dual-monitors-36393983/
 Creator: Jakub Zerdzicki
 
-4. Multi-screen market-data workstation (21 seconds, 50 fps, 16:9)
+5. Multi-screen market-data workstation (21 seconds, 50 fps, 16:9)
 Source: https://www.pexels.com/video/stock-market-analysis-on-trading-monitors-38642316/
 Creator: Rafael Minguet Delgado
+
+6. Hong Kong night skyline (4.5 seconds, 30 fps web master, 16:9)
+Source: project owner supplied ProRes master Z907C016_260711ND.mov
 
 License: Pexels License (free to use), accessed 2026-10-20
