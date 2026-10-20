@@ -4,22 +4,31 @@ Homepage hero film sequence
 Source: https://www.pexels.com/video/stunning-skyline-view-of-downtown-manhattan-36772021/
 Creator: Zak Mir
 
-2. Hong Kong illuminated skyline (42 seconds, 29.97 fps, 16:9)
+2. Hong Kong illuminated skyline (6.2-second web edit, 29.97 fps, 16:9)
 Source: https://www.pexels.com/video/city-buildings-during-night-time-9609351/
 Creator: Alan W
 
 3. Hong Kong rail corridor and harbour skyline (3.6 seconds, 30 fps web master, 16:9)
 Source: project owner supplied ProRes master Z904C047_260708DO.mov
 
-4. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
+4. Aircraft crossing a city skyline (8.1 seconds, 30 fps web master, 16:9)
+Source: project owner supplied master C1467.MP4
+
+5. Stock trading analysis on dual monitors (10 seconds, 25 fps, 16:9)
 Source: https://www.pexels.com/video/detailed-analysis-of-stock-trading-on-dual-monitors-36393983/
 Creator: Jakub Zerdzicki
 
-5. Multi-screen market-data workstation (21 seconds, 50 fps, 16:9)
+6. Multi-screen market-data workstation (21 seconds, 50 fps, 16:9)
 Source: https://www.pexels.com/video/stock-market-analysis-on-trading-monitors-38642316/
 Creator: Rafael Minguet Delgado
 
-6. Hong Kong night skyline (4.5 seconds, 30 fps web master, 16:9)
+7. Coastal perspective at sunset (2.7 seconds, 30 fps web master, 16:9)
+Source: project owner supplied ProRes master 20260716_A1M2-5503_1428.mov
+
+8. Ocean aerial (7.2 seconds, 30 fps web master, 16:9)
+Source: project owner supplied ProRes master DJI_20260719190129_0246_D_4PRO5883.mov
+
+9. Hong Kong night skyline (6.1 seconds, 30 fps web master, 16:9)
 Source: project owner supplied ProRes master Z907C016_260711ND.mov
 
 License: Pexels License (free to use), accessed 2026-10-20
