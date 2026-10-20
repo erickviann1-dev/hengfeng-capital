@@ -29,6 +29,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://capital.ewalpha.cn/zh/philosophy/"/>
   </url>
   <url>
+    <loc>https://capital.ewalpha.cn/zh/responsibility/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://capital.ewalpha.cn/zh/responsibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://capital.ewalpha.cn/en/responsibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://capital.ewalpha.cn/zh/responsibility/"/>
+  </url>
+  <url>
     <loc>https://capital.ewalpha.cn/zh/contact/</loc>
     <lastmod>2026-10-20</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://capital.ewalpha.cn/zh/contact/"/>
@@ -83,6 +90,13 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://capital.ewalpha.cn/zh/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://capital.ewalpha.cn/en/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://capital.ewalpha.cn/zh/philosophy/"/>
+  </url>
+  <url>
+    <loc>https://capital.ewalpha.cn/en/responsibility/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://capital.ewalpha.cn/zh/responsibility/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://capital.ewalpha.cn/en/responsibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://capital.ewalpha.cn/zh/responsibility/"/>
   </url>
   <url>
     <loc>https://capital.ewalpha.cn/en/contact/</loc>
