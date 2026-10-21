@@ -2,140 +2,210 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hengfengcap.com/zh/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/about/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/about/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/strategies/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/strategies/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/strategies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/strategies/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/philosophy/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/philosophy/"/>
   </url>
   <url>
+    <loc>https://hengfengcap.com/zh/views/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/"/>
+  </url>
+  <url>
     <loc>https://hengfengcap.com/zh/responsibility/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/responsibility/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/responsibility/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/responsibility/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/contact/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/contact/"/>
   </url>
   <url>
+    <loc>https://hengfengcap.com/zh/views/policy-and-liquidity/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/policy-and-liquidity/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/policy-and-liquidity/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/policy-and-liquidity/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/zh/views/carry-and-currency/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/carry-and-currency/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/carry-and-currency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/carry-and-currency/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/zh/views/rmb-outlook/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/rmb-outlook/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/rmb-outlook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/rmb-outlook/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/zh/views/duration-risk/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/duration-risk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/duration-risk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/duration-risk/"/>
+  </url>
+  <url>
     <loc>https://hengfengcap.com/zh/legal/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/legal/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/legal/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/legal/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/research/global-macro/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/global-macro/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/global-macro/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/global-macro/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/research/quantitative-equity/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/quantitative-equity/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/quantitative-equity/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/quantitative-equity/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/zh/research/dollar-liquidity/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/dollar-liquidity/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/dollar-liquidity/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/dollar-liquidity/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/about/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/about/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/about/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/strategies/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/strategies/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/strategies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/strategies/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/philosophy/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/philosophy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/philosophy/"/>
   </url>
   <url>
+    <loc>https://hengfengcap.com/en/views/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/"/>
+  </url>
+  <url>
     <loc>https://hengfengcap.com/en/responsibility/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/responsibility/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/responsibility/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/responsibility/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/contact/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/contact/"/>
   </url>
   <url>
+    <loc>https://hengfengcap.com/en/views/policy-and-liquidity/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/policy-and-liquidity/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/policy-and-liquidity/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/policy-and-liquidity/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/en/views/carry-and-currency/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/carry-and-currency/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/carry-and-currency/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/carry-and-currency/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/en/views/rmb-outlook/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/rmb-outlook/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/rmb-outlook/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/rmb-outlook/"/>
+  </url>
+  <url>
+    <loc>https://hengfengcap.com/en/views/duration-risk/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/views/duration-risk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/views/duration-risk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/views/duration-risk/"/>
+  </url>
+  <url>
     <loc>https://hengfengcap.com/en/legal/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/legal/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/legal/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/legal/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/research/global-macro/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/global-macro/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/global-macro/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/global-macro/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/research/quantitative-equity/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/quantitative-equity/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/quantitative-equity/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/quantitative-equity/"/>
   </url>
   <url>
     <loc>https://hengfengcap.com/en/research/dollar-liquidity/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://hengfengcap.com/zh/research/dollar-liquidity/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hengfengcap.com/en/research/dollar-liquidity/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hengfengcap.com/zh/research/dollar-liquidity/"/>
