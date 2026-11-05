@@ -1,0 +1,3 @@
+@font-face{font-family:'Noto Serif SC Complete';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/noto-serif-sc-complete-5eb3e003.woff2') format('woff2')}
+:root{--serif:'Noto Serif SC Complete','Noto Serif SC','Songti SC','SimSun',serif}
+@media(max-width:800px){.institutional-focus>article:nth-child(n){border-left:0;border-right:0;padding-inline:0}}
